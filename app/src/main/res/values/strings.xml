@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MacroClicker</string>
+    <string name="service_desc">Usado para gravar e repetir toques e deslizes na tela.</string>
+</resources>
